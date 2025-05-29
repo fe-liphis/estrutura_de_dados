@@ -14,12 +14,17 @@ while True:
     
     opcao = int(input())
 
+    print("\n")
+
     if opcao == 1:
         fila.append(f"A{senha}")
         print(f"Senha retirada: A{senha}")
         senha += 1
     elif opcao == 2:
-        print(list(fila))
+        if fila:
+            print(list(fila))
+        else:
+            print("Fila vazia")
     elif opcao == 3:
         if fila:
             senhaChamada = fila.popleft()
