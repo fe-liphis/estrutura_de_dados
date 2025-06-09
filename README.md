@@ -16,12 +16,11 @@ Este repositório contém implementações práticas dos principais conceitos de
 - **Deque (Double-Ended Queue)** – Inserção/remoção nas duas extremidades
 
 ### 🌐 Grafos e Algoritmos
-- **Representação de Grafos** (direcionados e não-direcionados)
+- **Representação de Grafos** (não-direcionados)
 - **Busca em Profundidade (DFS)** – Depth-First Search
 - **Busca em Largura (BFS)** – Breadth-First Search
 
 ### 🧠 Conceitos abordados
 - Vértices e arestas
-- Nós, raízes e folhas
 - Estruturas hierárquicas e relacionais
 - Aplicações práticas em estruturas computacionais
